@@ -54,7 +54,7 @@
       "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
-      "show faces rate": "false",
+      "show faces rate": "true",
 	  
       "clicks to stop showing banner ad": "1",
       "time unit banner": "minute",
