@@ -64,11 +64,11 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
-      "CPA image": "https://dadamou.github.io/poppy/cpa.png",
+      "show CPA": "true",
+      "CPA image": "https://dadamou.github.io/lulubox/cpalulubox.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
-      "is app suspended": "true",
+      "is app suspended": "false",
       "update title": "The application is in maintenance condition",
       "update message": "Get APK Original Free for Android - APK Download",
       "update URL": "https://g4ming.cc/d4c1a5c"
