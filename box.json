@@ -64,11 +64,11 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://dadamou.github.io/lulubox/cpalulubox.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
-      "is app suspended": "false",
+      "is app suspended": "true",
       "update title": "Welcome to Lulubox. Get started ",
       "update message": "1. So first download the Lulubox android app from here.",
       "update URL": "https://smrturl.co/o/239000/53225692?s1="
