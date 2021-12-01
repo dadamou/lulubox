@@ -50,13 +50,13 @@
       "guide Activity Banner": "tapdaq",
       "guide Activity Native": "tapdaq",
 	  
-      "clicks to show ad in list": "3",
+      "clicks to show ad in list": "2",
       "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "1",
+      "clicks to stop showing banner ad": "2",
       "time unit banner": "minute",
       "time banner": "1",
 	  
@@ -171,7 +171,7 @@
         "title": "Tips for LuLu app Notifications are not working properly.",
         "guide": "<p>Go to your Apps-&gt;Tips for LuLu-&gt;Notifications and check whether notifications are enabled or not. If it is not enabled, please enable it.</p><p>Also if you don&apos;t get notification alert sounds, re-verify that you don&apos;t accidentally mute the app notification sounds.</p>",
         "guide 2": "Get APK Original Free for Android",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "8",
 		
         "show button": "true",
