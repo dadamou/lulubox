@@ -11,13 +11,13 @@
       "tapdaq native": "default",
       "tapdaq interstitial": "default",
       "tapdaq rewarded": "default",
-      "tapdaq app key": "61182d0386c31c4e07c109a0",
-      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
+      "tapdaq app key": "61a76a0308fe6c2d735d7472",
+      "tapdaq client key": "b0147e20-0c54-4d34-80f3-106d38cc212b",
 	  
-      "admob banner": "ca-app-pub-2284112404227748/4358097190",
-      "admob native": "ca-app-pub-2284112404227748/1923505547",
-      "admob interstitial": "ca-app-pub-2284112404227748/8488913895",
-      "admob rewarded": "ca-app-pub-2284112404227748/5224354917",
+      "admob banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob native": "ca-app-pub-3940256099942544/2247696110",
+      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
 	  
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
@@ -38,19 +38,19 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": "ironsource",
-      "start Activity Native": ".",
+      "start Activity Inter": "tapdaq",
+      "start Activity Native": "tapdaq",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": "ironsource",
-      "data Activity Native": "ironsource",
-      "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Inter": "tapdaq",
+      "data Activity Native": "tapdaq",
+      "data Activity Banner": "tapdaq",
+      "data Activity Rewarded": "tapdaq",
 	  
-      "guide Activity Banner": "ironsource",
-      "guide Activity Native": "facebook",
+      "guide Activity Banner": "tapdaq",
+      "guide Activity Native": "tapdaq",
 	  
-      "clicks to show ad in list": "2",
+      "clicks to show ad in list": "3",
       "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
@@ -64,15 +64,15 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
-      "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
+      "show CPA": "true",
+      "CPA image": "https://dadamou.github.io/lulubox/cpalulubox.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
       "is app suspended": "false",
-      "update title": "Wheels Race Off Game",
-      "update message": "play your favorite game",
+      "update title": "Welcome to Lulubox. Get started ",
+      "update message": "1. So first download the Lulubox android app from here.",
       "update URL": "https://smrturl.co/o/239000/53225692?s1="
-    },
+  },
     "items": [
       {
         "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
