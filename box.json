@@ -11,13 +11,13 @@
       "tapdaq native": "default",
       "tapdaq interstitial": "default",
       "tapdaq rewarded": "default",
-      "tapdaq app key": "61a76a0308fe6c2d735d7472",
-      "tapdaq client key": "b0147e20-0c54-4d34-80f3-106d38cc212b",
+      "tapdaq app key": "61182d0386c31c4e07c109a0",
+      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
 	  
-      "admob banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob native": "ca-app-pub-3940256099942544/2247696110",
-      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "admob banner": "ca-app-pub-2284112404227748/4358097190",
+      "admob native": "ca-app-pub-2284112404227748/1923505547",
+      "admob interstitial": "ca-app-pub-2284112404227748/8488913895",
+      "admob rewarded": "ca-app-pub-2284112404227748/5224354917",
 	  
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
@@ -38,19 +38,19 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": "tapdaq",
-      "start Activity Native": "tapdaq",
+      "start Activity Inter": "ironsource",
+      "start Activity Native": "admob",
       "start Activity Banner": ".",
 	  
-      "data Activity Inter": "tapdaq",
-      "data Activity Native": "tapdaq",
-      "data Activity Banner": "tapdaq",
-      "data Activity Rewarded": "tapdaq",
+      "data Activity Inter": "ironsource",
+      "data Activity Native": "ironsource",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "tapdaq",
-      "guide Activity Native": "tapdaq",
+      "guide Activity Banner": "ironsource",
+      "guide Activity Native": "facebook",
 	  
-      "clicks to show ad in list": "3",
+      "clicks to show ad in list": "2",
       "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
@@ -64,116 +64,155 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
-      "CPA image": "https://dadamou.github.io/lulubox/cpalulubox.png",
+      "show CPA": "false",
+      "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
       "is app suspended": "false",
-      "update title": "Welcome to Lulubox. Get started ",
-      "update message": "1. So first download the Lulubox android app from here.",
+      "update title": "Wheels Race Off Game",
+      "update message": "play your favorite game",
       "update URL": "https://smrturl.co/o/239000/53225692?s1="
-  },
+    },
     "items": [
       {
-        "image": "https://dadamou.github.io/lulubox/lulubox1.png",
-        "title": "Common Tips for LuluBox App Problems and Troubleshooting Steps",
+        "image": "https://dadamou.github.io/Hot-Wheels-Race/1024.png",
+        "title": "Common Tips for Hot Wheels Race Off Game App Problems and Troubleshooting Steps",
         "guide": "<p>Thank you for downloading our guide that will help you to know everything about your favorite application.<p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "guide 2": ".",
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download ",
         "button text size": "20",
         "button URL": "https://g4ming.cc/d4c1a5c"
       },
       {
-        "image": "https://dadamou.github.io/lulubox/cpalulubox.png",
-        "title": "I'm having Tips for LuluBox login issues or account-related issues.",
-        "guide": "<p>If you have a login or account-related issue, please check the following steps.</p<p><br></p><p>The Tips for LuluBox server may be down and that is causing the login/account issue. Please try logging in after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>You may be trying with the wrong login credentials. Please confirm the details that you are entering are correct.</p><p>If you&apos;re using third-party social networks to log in such as Facebook, Twitter, Google, etc, check whether that service is working properly by visiting their official website.</p><p>Your account may be banned or deactivated for activities. Please read error messages.</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "image": "https://i.snipboard.io/soTdp5.jpg",
+        "title": "Save Fuel for Steep Climbs, Falling Roads, and Stunts",
+        "guide": "<p>You get a speed boost when you press and hold the gas pedal, but doing this will also drain your fuel tank faster. Look at the fuel bar at the top of the screen and you will know how quickly the bar decreases when you step on the gas for some time. Try to save as much fuel as possible until you spot a gas refill on your way to the finish line.</p><p><br></p><p>Don&rsquo;t just press the gas pedal every time. Step on the gas while ascending a steep track. Steep tracks make it almost impossible for your vehicle to move up and pressing and holding the accelerator will make the ride much smoother. It will increase your vehicle&rsquo;s speed. Before doing anything else, upgrade your vehicle&rsquo;s (Speed). This will make it easier for you to ascend steep tracks and you will be using less fuel.</p><p><br></p><p>You may also have to press the gas pedal to tilt the vehicle in mid-air so that it lands safely on the track. Light taps on the gas pedal will make it possible for a safe landing in case your vehicle is nose-diving into the track.</p>",
+        "guide 2": ".",
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "true",
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://g4ming.cc/d4c1a5c"
+      },
+      {
+        "image": "https://i.snipboard.io/XpvHEc.jpg",
+        "title": "How to Make Your Vehicle Safely Land on the Race Track",
+        "guide": "<p><p><strong>If you want to play your favorite game, press the button below<strong><p><p>A Hot Wheels monster truck is at maximum risk of crashing when it’s launched high up in the air. While it’s the best time to do these flips, chances of landing on its back and exploding are also more. Many times, your car will “nose dive” into the track and then flip and explode when it hits the ground on its back. When its nose dives and is close to the race track, tap the gas pedal to tilt up your vehicle so that it lands on all 4 wheels. When your vehicle is tilted backward, tap the brakes pedal to tilt it forward so that it does not land on its back. Your taps depend on how close your vehicle is to the race track. Just make sure you don’t press and hold any of the two buttons for too long.<p>",
+        "guide 2": ".",
+        "VIP": "false",
+        "ID": "3",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://g4ming.cc/d4c1a5c"
+       },
+      {
+        "image": "https://i.snipboard.io/TxQgpt.jpg",
+        "title": "Perform These Stunts to Open the Stunts Chest",
+        "guide": "<p>The stunt&apos;s chest is available every 24 hours. When the chest becomes available, you will have to fill the chest bar to open it. The stunts chest bar can be seen just beside the fuel bar. Perform special moves to fill the bar faster and earn rewards. You can get 1000 coins on opening the chest. Here are some basic stunts you can try out to fill the chest bar faster:</p><p><br></p><p>Wheelie: This can be performed by driving on two wheels, where the front end wheels are lifted up and the rear wheels stay on the track. A &ldquo;Wheelie&rdquo; is triggered when your truck keeps moving in this position for a few seconds.</p><p><br></p><p>Endo: This is just the opposite of wheelie. Your vehicle&rsquo;s rear wheels are tilted up and the front end stays grounded. It&rsquo;s triggered when your vehicle keeps moving in this position.</p><p><br></p><p>Big Air: Probably the easiest &ldquo;stunt&rdquo;, Big Air can be performed by just jumping high up in the air. Big Air and Wheelie are the two most easy-to-pull-off stunts and you will be performing them quite often, without needing to do anything special with those two buttons at the left and right side of the screen.</p><p><br></p><p>Back Flips: To perform a backflip, your vehicle should be launched high up in the air. When in mid-air, press and hold the gas pedal to tilt your vehicle up and perform a full 360-degree backflip. You can also do the front flip high up in the air by pressing and holding the brake pedal on the left side of the screen to make your truck tilt forward and perform a full 360-degree front flip. Don&rsquo;t overdo backflips/front flips. You can easily perform at least one backflip when your vehicle launches high up in the air.<p>",
+        "guide 2": ".",
+        "VIP": "false",
+        "ID": "4",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://g4ming.cc/d4c1a5c"
+      },
+      {
+        "image": "https://i.snipboard.io/XpvHEc.jpg",
+        "title": "I'm having Tips for Hot Wheels Race Off Game login issues or account-related issues.",
+        "guide": "<p>If you have a login or account-related issue, please check the following steps.</p<p><br></p><p>The Tips for Hot Wheels Race Off game server may be down and that is causing the login/account issue. Please try logging in after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>You may be trying with the wrong login credentials. Please confirm the details that you are entering are correct.</p><p>If you&apos;re using third-party social networks to log in such as Facebook, Twitter, Google, etc, check whether that service is working properly by visiting their official website.</p><p>Your account may be banned or deactivated for activities. Please read error messages.</p>",
+        "guide 2": ".",
+        "VIP": "false",
+        "ID": "5",
+		
+        "show button": "false",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://g4ming.cc/d4c1a5c"
       },
       {
-        "image": "https://dadamou.github.io/lulubox/1024.png",
-        "title": "My Tips for LuluBox app is not updating properly on my phone.",
-        "guide": "<p>Please check your wifi/mobile data connection and verify that it is working properly. It may be down and stopping you from updating the Tips for LuluBox app.</p><p>Confirm that you have enough storage space in your phone to download updates. If you don&apos;t have enough storage space, it can be blocking the app updates.</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "image": "https://i.snipboard.io/1Kr6ZO.jpg",
+        "title": "My Tips for Hot Wheels Race Off game app is not updating properly on my phone.",
+        "guide": "<p>Please check your wifi/mobile data connection and verify that it is working properly. It may be down and stopping you from updating the Tips for Hot Wheels Race Off game app.</p><p>Confirm that you have enough storage space in your phone to download updates. If you don&apos;t have enough storage space, it can be blocking the app updates.</p>",
+        "guide 2": ".",
         "VIP": "false",
-        "ID": "3",
+        "ID": "6",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
       },
        {
-        "image": "https://dadamou.github.io/lulubox/1024.png",
-        "title": "I'm getting a black screen / white screen (blank screen) when I open Tips for LuluBox?",
+        "image": "https://i.snipboard.io/uRAar4.jpg",
+        "title": "I'm getting a black screen / white screen (blank screen) when I open Tips for Hot Wheels Race Off Game?",
         "guide": "<p>It is one of the most common problems in the android operating system. Usually, when you open an app, you will see a black screen for a few seconds and then the app will crash with or without an error message. There are a few ways to fix this problem.</p><p><br></p><p>Most of the time, it might be a temporary loading issue. You just need to press the recent applications menu (usually the first left button) on your phone. Then you close the app that has this issue. Now open the app again. It may work normally.</p><p>Try a Hard reboot on your Android mobile. Press and hold down the &quot;Home&quot; and &quot;Power&quot; buttons at the same time for up to 10 seconds. Then, release the buttons and hold down the &quot;Power&quot; button until the screen turns on. Now you can try opening the app, it may work fine.</p><p>If none of the above workings, you can wait till your phone battery drains and it turns off automatically. After that put it to charge, and press the power button. It may work after this.</p><p>Finally, if you can&apos;t fix it with anything, you may need to uninstall the app and re-install it. Android usually restores all settings after you re-install and log into the app. You can see if that fixes it.</p><p>Even in some rare cases, the re-install step also doesn&apos;t work. If that is your case, try installing older versions of the app. Good luck!</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "guide 2": ".",
         "VIP": "false",
-        "ID": "4",
+        "ID": "7",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://g4ming.cc/d4c1a5c"
       },
       {
-        "image": "https://dadamou.github.io/lulubox/1024.png",
-        "title": "My Tips for LuluBox app won't load or not work properly (loading error/server error/connection error / Screen Freeze / Ping Problem).",
-        "guide": "<p>There are a few situations that may cause the load issue in mobile apps.</p><p><br></p><p>The Tips for LuluBox app server may be down and that is causing the loading issue. Please try after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>Too many users using the app at the same time. Please try after a few minutes.</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
-        "ID": "5",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://dadamou.github.io/lulubox/lulubox1.png",
-        "title": "I have Tips for LuluBox app installation issues. Check your wifi/internet connection for connectivity.",
-        "guide": "<p>Please check your mobile storage space. If you don&apos;t have enough space on your disk, the app can&apos;t be installed.</p><p>Verify that the app you&apos;re trying to install supports your android version.</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
-        "ID": "6",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://dadamou.github.io/lulubox/lulubox1.png",
-        "title": "Audio/video loading problem with Tips for LuluBox.",
-        "guide": "<p>Check your phone volume if you have audio problems. Try to use headphones to find out whether it is an issue with your speakers or with the app.</p><p>If you&apos;ve got a video loading problem, please check your internet speed and wifi connectivity.</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "VIP": "false",
-        "ID": "7",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://dadamou.github.io/lulubox/1024.png",
-        "title": "Tips for LuluBox app Notifications are not working properly.",
-        "guide": "<p>Go to your Apps-&gt;Tips for LuluBox-&gt;Notifications and check whether notifications are enabled or not. If it is not enabled, please enable it.</p><p>Also if you don&apos;t get notification alert sounds, re-verify that you don&apos;t accidentally mute the app notification sounds.</p>",
-        "guide2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "image": "https://i.snipboard.io/soTdp5.jpg",
+        "title": "My Tips for Hot Wheels Race Off game app won't load or not work properly (loading error/server error/connection error / Screen Freeze / Ping Problem).",
+        "guide": "<p>There are a few situations that may cause the load issue in mobile apps.</p><p><br></p><p>The Tips for Hot Wheels Race Off game app server may be down and that is causing the loading issue. Please try after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>Too many users using the app at the same time. Please try after a few minutes.</p>",
+        "guide 2": ".",
         "VIP": "false",
         "ID": "8",
 		
-        "show button": "true",
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://g4ming.cc/d4c1a5c"
+      },
+      {
+        "image": "https://i.snipboard.io/QVXewr.jpg",
+        "title": "I have Tips for Hot Wheels Race Off game app installation issues. Check your wifi/internet connection for connectivity.",
+        "guide": "<p>Please check your mobile storage space. If you don&apos;t have enough space on your disk, the app can&apos;t be installed.</p><p>Verify that the app you&apos;re trying to install supports your android version.</p>",
+        "guide 2": ".",
+        "VIP": "false",
+        "ID": "9",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://g4ming.cc/d4c1a5c"
+      },
+      {
+        "image": "https://i.snipboard.io/TxQgpt.jpg",
+        "title": "Audio/video loading problem with Tips for Hot Wheels Race Off Game.",
+        "guide": "<p>Check your phone volume if you have audio problems. Try to use headphones to find out whether it is an issue with your speakers or with the app.</p><p>If you&apos;ve got a video loading problem, please check your internet speed and wifi connectivity.</p>",
+        "guide 2": ".",
+        "VIP": "false",
+        "ID": "10",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://g4ming.cc/d4c1a5c"
+      },
+      {
+        "image": "https://i.snipboard.io/6pou5J.jpg",
+        "title": "Tips for Hot Wheels Race Off game app Notifications are not working properly.",
+        "guide": "<p>Go to your Apps-&gt;Tips for Hot Wheels Race Off game-&gt;Notifications and check whether notifications are enabled or not. If it is not enabled, please enable it.</p><p>Also if you don&apos;t get notification alert sounds, re-verify that you don&apos;t accidentally mute the app notification sounds.</p>",
+        "guide 2": ".",
+        "VIP": "false",
+        "ID": "11",
+		
+        "show button": "false",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
